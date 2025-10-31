@@ -1,6 +1,26 @@
 # Automated Cable Cutting System
 ## Web-Controlled Design with ESP32
 
+### 📸 Hardware Gallery
+
+<p align="center">
+  <img src="images/hardware_setup_top.jpg" width="48%" alt="Hardware Setup - Top View"/>
+  <img src="images/hardware_setup_angle.jpg" width="48%" alt="Hardware Setup - Angle View"/>
+</p>
+
+<p align="center">
+  <img src="images/hardware_setup_side.jpg" width="48%" alt="Hardware Setup - Side View"/>
+  <img src="images/hardware_detail.jpg" width="48%" alt="Hardware Detail"/>
+</p>
+
+### 🎥 System in Action
+
+https://github.com/Dakshit06/Automated_Wirecutter/assets/demo_operation.mp4
+
+*Watch the automated cable cutting system in operation*
+
+---
+
 ### 📋 Project Overview
 This is an automated cable cutting system controlled via a web interface. The system uses an ESP32 microcontroller to create a WiFi access point, allowing users to control cable cutting operations from any device with a web browser. The system features precision stepper motor control with AccelStepper library and supports batch cutting operations.
 
